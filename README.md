@@ -1,6 +1,6 @@
 👋 Hey, I'm Nikunj Rathore
 🎓 BCA + MCA Student | 💻 Aspiring Software Developer | 🌱 Beginner & Lifelong Learner
-<img src="https://www.istockphoto.com/photos/panda-in-natural-habitat" />
+<img src="https://www.istockphoto.com/photos/panda-in-natural-habitat"/>
 🚀 About Me
 
 I'm a first-semester BCA + MCA student with a strong interest in Coding, Software Development, and Technology.
